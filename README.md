@@ -1,2 +1,2 @@
 # Docker_getting-started
-Dockerの学習
+Dockerの公式チュートリアルで学習
